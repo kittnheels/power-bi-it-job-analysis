@@ -30,9 +30,9 @@ Created three logical entities:
 
 Relationships:
 
-Jobs → Skills_Table
+Jobs -> Skills_Table
 
-Jobs → Certifications_Table
+Jobs -> Certifications_Table
 
 ## Measures Created
 
